@@ -135,3 +135,5 @@ echo Hello $NAME
 echo hello name
 hello $NAME
 ./questionnaire.sh
+echo QUESTION2
+echo $QUESTION2
