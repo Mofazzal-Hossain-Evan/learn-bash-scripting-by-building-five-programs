@@ -142,3 +142,4 @@ read
 git commit -m"12"
 echo hello $NAME $LOCATION
 ./questionnaire.sh
+./questionnaire.sh
