@@ -114,3 +114,4 @@ git remote -v
 git remote set-url origin https://github.com/Mofazzal-Hossain-Evan/learn-bash-scripting-by-building-five-programs.git
 git push origin main
 echo hello questionnaire
+sh questionnaire.sh
