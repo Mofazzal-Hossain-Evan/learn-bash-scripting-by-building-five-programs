@@ -119,3 +119,4 @@ bash questionnaire.sh
 wich bash
 which bash
 shebang
+./questionnaire.sh
