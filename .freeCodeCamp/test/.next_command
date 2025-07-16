@@ -116,3 +116,5 @@ git push origin main
 echo hello questionnaire
 sh questionnaire.sh
 bash questionnaire.sh
+wich bash
+which bash
