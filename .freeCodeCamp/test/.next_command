@@ -120,3 +120,4 @@ wich bash
 which bash
 shebang
 ./questionnaire.sh
+ls --color=auto -l
