@@ -104,3 +104,13 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 questionnaire.sh
 touch questionnarie.sh
 touch questionnaire.sh
+git origin https://github.com/Mofazzal-Hossain-Evan/learn-bash-scripting-by-building-five-programs
+git status
+git init
+git remote add origin https://github.com/Mofazzal-Hossain-Evan/learn-bash-scripting-by-building-five-programs.git
+git checkout -b main
+git push origin main
+git remote -v
+git remote set-url origin https://github.com/Mofazzal-Hossain-Evan/learn-bash-scripting-by-building-five-programs.git
+git push origin main
+echo hello questionnaire
