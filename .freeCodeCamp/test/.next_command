@@ -118,3 +118,4 @@ sh questionnaire.sh
 bash questionnaire.sh
 wich bash
 which bash
+shebang
