@@ -130,3 +130,7 @@ ls --color=auto -l
 ./questionnaire.sh
 echo $QUESTION1
 ./questionnaire.sh
+echo hello $NAME
+echo Hello $NAME
+echo hello name
+hello $NAME
