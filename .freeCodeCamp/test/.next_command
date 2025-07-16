@@ -134,3 +134,4 @@ echo hello $NAME
 echo Hello $NAME
 echo hello name
 hello $NAME
+./questionnaire.sh
