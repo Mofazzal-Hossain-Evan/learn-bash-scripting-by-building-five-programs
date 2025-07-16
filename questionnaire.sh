@@ -2,6 +2,8 @@
 QUESTION1="What's your name?"
 QUESTION2="Where are you from?"
 echo $QUESTION1
-echo $QUESTION2
 read NAME
+echo $QUESTION2
+read LOCATION
+
 echo Hello $NAME.

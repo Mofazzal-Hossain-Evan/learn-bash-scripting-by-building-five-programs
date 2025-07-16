@@ -137,3 +137,6 @@ hello $NAME
 ./questionnaire.sh
 echo QUESTION2
 echo $QUESTION2
+read
+read
+git commit -m"12"
