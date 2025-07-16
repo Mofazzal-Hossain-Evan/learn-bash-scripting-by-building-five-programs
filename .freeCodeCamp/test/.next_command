@@ -145,3 +145,5 @@ echo hello $NAME $LOCATION
 ./questionnaire.sh
 --help
 echo --help
+echo man
+man echo
