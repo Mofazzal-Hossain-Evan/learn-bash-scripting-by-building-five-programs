@@ -267,3 +267,4 @@ echo $1
 help
 man if
 help if
+./countdown.sh arg1
