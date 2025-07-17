@@ -266,3 +266,4 @@ echo $1
 --help
 help
 man if
+help if
