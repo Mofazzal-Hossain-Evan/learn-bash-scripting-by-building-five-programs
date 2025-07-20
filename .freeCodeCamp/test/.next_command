@@ -396,3 +396,5 @@ echo $?
 echo $?
 [[ 10 -ne 5 ]]
 [[ 10 -ne 5 ]]
+bad_command
+bad_command
