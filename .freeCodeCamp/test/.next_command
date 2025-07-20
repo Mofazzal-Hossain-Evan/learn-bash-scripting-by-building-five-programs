@@ -343,3 +343,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help
 help if
 help [[ if]]
+help !
+help test
