@@ -345,3 +345,4 @@ help if
 help [[ if]]
 help !
 help test
+./countdown.sh 5
