@@ -514,3 +514,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help [[
 __vsc_prompt_cmd_original
 [[ -x countdown.sh && 5 -le 4 ]]
+[[ -x countdown.sh || 5 -le 4 ]]
