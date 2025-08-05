@@ -20,6 +20,7 @@ then
   do
   echo $I
   (( I-- ))
+  sleep 1
   done
 
 else
