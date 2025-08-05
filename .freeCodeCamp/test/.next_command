@@ -778,3 +778,5 @@ touch bingo.sh
 chmod +x bingo.sh
 ./ bingo.sh
 ./bingo.sh
+clear
+printenv
