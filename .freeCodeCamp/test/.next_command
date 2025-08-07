@@ -873,3 +873,6 @@ echo $I
 I=3 $(( I - 6))
 I=$(( I - 6))
 J=$(( I - 6))
+echo $3
+echo J
+echo $J
