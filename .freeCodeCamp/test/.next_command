@@ -884,3 +884,5 @@ echo $((3 bingo.sh countdown.sh questionnaire.sh 5 + 25))
 echo $3
 echo $J
 declare -p
+declare -p 3
+declare -p J
