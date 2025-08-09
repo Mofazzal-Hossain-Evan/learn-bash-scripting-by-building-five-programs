@@ -934,3 +934,5 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./bingo.sh
 help let
 ./ bingo.sh
+help text
+help test
