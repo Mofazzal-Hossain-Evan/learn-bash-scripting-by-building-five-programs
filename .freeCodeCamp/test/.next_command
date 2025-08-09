@@ -942,3 +942,5 @@ help test
 ./bingo.sh
 ./bingo.sh
 touch fortune.sh
+chomd +x fortune.sh
+chmod +x fortune.sh
