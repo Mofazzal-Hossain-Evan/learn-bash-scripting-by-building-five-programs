@@ -936,3 +936,5 @@ help let
 ./ bingo.sh
 help text
 help test
+./ bingo,sh
+./ bingo.sh
